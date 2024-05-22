@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 25px;
+  line-height: 50px;
+  color: #687568c5;
+}
+
+h1 {
+  width: 500px;
+  margin: 0 auto 150px;
+  font-family: "Georgia", serif;
+  text-align: center;
+  font-weight: normal;
+  font-size: 70px;
+  line-height: 70px;
+}
+
+h2 {
+  border-bottom: 20px solid #bebdab;
+  padding-bottom: 12px;
+}
+
+.container {
+  width: 510px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.site-header {
+  min-width: 550px;
+  height: 300px;
+  margin-bottom: 70px;
+  padding-top: 30px;
+  background: #847462 no-repeat center url("img/llll.webp");
+  background-size: cover;
+  color: #ffffff;
+}
+
+.site-header p {
+  width: 255px;
+  margin: 0 auto 26px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 24px; 
+}
+
+.site-header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.features {
+  width: 510px;
+  margin: 0 auto 30px;
+  padding: 0 20px;
+}
+
+.features p {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 0 5px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
+}
+
+.feature-furniture {
+  min-width: 20px;
+  height: 80px;
+  margin-bottom: 5px;
+  padding-top: 60px;
+  background-image: url("img/icons8-информация-50.png");
+}
+
+.feature-lighting {
+  padding-top: 65px;
+  background-image: url("img/icons8-пляж-50.png");
+}
+
+.feature-accessories {
+  padding-top: 65px;
+  background-image: url("img/icons8-точка-на-карте-50.png");
+}
+
+.advantages {
+  width: 510px;
+  margin: 0 auto 40px;
+  padding: 0 20px;
+}
+
+.advantages-list {
+  padding: 0;
+  list-style: none;  
+}
+
+.advantages-item {
+  margin-bottom: 15px;
+  padding-left: 20px;
+  border-left: 20px solid #c7cc9f;
+  color: #413a3a;
+}
+
+.standard {
+  border-color: #bec59f;
+  color: #221d1d;
+}
+
+.vip {
+  border-color: #d0d3a7;
+  color: #000000;
+}
+
+.site-footer {
+  min-width: 550px;
+  background-color: #a3bd8f;
+  color: #ffffff;
+}
+
+.site-footer .container {
+  text-align: center;
+}
+
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+}
+
+
